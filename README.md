@@ -1,1 +1,1 @@
-# This is a simple chatbot project implemented with Gemini API and streamlit 
+# This is a simple chatbot project implemented with Gemini API and streamlit 💬
